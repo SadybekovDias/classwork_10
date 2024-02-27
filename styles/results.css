@@ -1,0 +1,46 @@
+.results {
+    background: white;
+}
+
+.results__row {
+    display: flex;
+    padding: 200px 0;
+}
+
+.results__text {
+    padding: 90px 116px 90px 0;
+}
+
+.title__pad {
+    padding: 20px 0 30px 0; 
+}
+
+.results__numbers {
+    color: rgb(9, 9, 9);
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.results__block-text {
+    padding-left: 16px;
+}
+
+.results__numbers-modify-500 {
+    padding-right: 127px;
+}
+
+.results__numbers-modify {
+    padding-right: 89px;
+}
+
+.results__heart {
+    display: flex;
+    padding-bottom: 28px;
+}
+
+.results__ball {
+    display: flex;
+    padding-bottom: 28px;
+}

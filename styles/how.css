@@ -1,0 +1,49 @@
+.how_all {
+    display: flex;
+    padding-top: 200px;
+    justify-content: space-between;
+}
+
+.title_info {
+    padding: 617;
+}
+
+.how__title-modify {
+    max-width: 571px;
+    padding: 20px 0 62px 0;
+}
+
+.how_btn {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+}
+
+.how_blockone {
+    display: flex;
+    text-align: center;
+}
+
+.how_blocktwo {
+    display: flex;
+    text-align: center;
+    padding: 28px 0 200px 0;
+}
+
+.how_card {
+    box-sizing: border-box;
+    border: 1px solid rgb(240, 236, 232);
+    border-radius: 12px;
+    box-shadow: 0px 2px 12px 0px rgba(43, 43, 43, 0.06);
+    background: rgb(255, 255, 255);
+    text-align: center;
+    padding: 61px 38px;
+}
+
+.howe_card-modify {
+    margin:0 28px 0 28px;
+}
+
+.mini__title-modify {
+    text-align: center;
+}

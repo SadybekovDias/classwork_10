@@ -1,0 +1,92 @@
+.footer {
+    background: rgb(254, 249, 242);
+    padding-top: 163px;
+}
+
+.footer__row {
+    display: flex;
+}
+
+.footer__col {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__col-logo {
+    flex-basis: 50%;
+}
+
+.footer__col-menu {
+    flex-basis: 25%;
+}
+
+.footer__col-utility {
+    flex-basis: 25%;
+}
+
+.footer__text-strong-modify {
+    max-width: 119px;
+}
+
+.footer__text_modify {
+    margin-top: 27px;
+}
+
+.footer__options_modify {
+    margin-top: 45px;
+}
+
+.footer__options {
+    margin-top: 22px;
+}
+
+.test__orange-footer {
+    border-radius: 14px;
+    background: url(../img/test/test-orange-bg-left.png) no-repeat -45% -43%, url(../img/test/test-orange-bg-right.png) no-repeat 128% 163%;
+    background-color: rgb(255, 156, 8);
+    padding: 64px 48px 0 48px;
+}
+
+.footer__btn {
+    flex-direction: column;
+    gap: 0;
+}
+
+.btn-black-modify {
+    margin-top: 21px;
+    padding: 23px 98px 28px 98px;
+}
+
+.btn-white-modify {
+    padding: 23px 70px 28px 70px;
+    margin: 16px 0 50px 0;
+}
+
+.hr {
+    margin-top: 109px;
+    background: rgb(240, 236, 232);
+    height: 1px;
+}
+
+.footer__copyright {
+    display: flex;
+    padding: 39px 0px 32px 0;
+}
+
+.footer__copyright-text-modify {
+    color: rgb(9, 9, 9);
+    text-decoration: underline;
+    margin-left: 5px;
+}
+
+.footer__black-box {
+    display: flex;
+    margin-left: 287px;
+}
+
+.black-box {
+    border-radius: 8px;
+    background: rgb(9, 9, 9);
+    border: 17px solid rgb(9, 9, 9);
+    margin-left: 7px;
+}

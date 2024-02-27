@@ -1,0 +1,67 @@
+.video {
+    background: rgb(255, 212, 164);
+    
+}
+
+.video__row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 198px 110px 415px 110px;
+}
+
+.video__pretitle {
+    color: rgb(9, 9, 9);
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.video__title-modify {
+    padding: 20px 0 39px 0;
+    max-width: 690px;
+    text-align: center;
+}
+
+.video__button {
+    position: relative;
+}
+
+.video__img {
+    background: #000;
+    border-radius: 57px;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: -340px;
+    filter: brightness(50%)
+}
+
+.video__start {
+    position: absolute;
+    top: -128px;
+    right: 453px;
+}
+
+.video__second_chap-text {
+    background: white;
+    display: flex;
+    padding: 450px 0px 196px 0px;
+}
+
+.thegoal {
+    text-align: center;
+}
+
+.video__mini__title-modify {
+    text-align: center;
+}
+
+.gotstarted {
+    margin-left: 74px;
+}
+
